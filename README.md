@@ -1,5 +1,5 @@
 ---
-title: Kolors Virtual Try-On
+title: Runway Virtual Try-On
 emoji: 👕
 colorFrom: purple
 colorTo: gray
